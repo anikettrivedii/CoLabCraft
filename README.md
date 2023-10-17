@@ -1,2 +1,0 @@
-# CoLabCraft
-project
