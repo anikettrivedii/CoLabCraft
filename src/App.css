@@ -1,0 +1,15 @@
+/* :root{
+  --primary-color: #314957;
+  --secondary-color:#f0fdfa;
+} */
+body{
+  background-color: #03111a;
+  /* color:#164e70 */
+  
+}
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Add your custom styles here if needed */
